@@ -1,4 +1,4 @@
-🔥 Top Advanced JavaScript Interview Questions
+🔥 Top Advanced JavaScript Interview Questions-
 1. Explain the event loop, microtasks, and macrotasks in JavaScript.
 How does the event loop handle setTimeout, Promises, async/await, and requestAnimationFrame?
 
